@@ -1,7 +1,7 @@
 # week-6-lab
 ## Big Ideas in Computing: Week 6 Lab Exercises
 
-
+## *I copied this template from a source online, we can edit and modify it however we see fit*
 ## Name
 Choose a self-explaining name for your project.
 
