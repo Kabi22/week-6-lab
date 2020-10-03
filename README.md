@@ -22,7 +22,7 @@ output: 4273
 ```
 
 ### Support
-You can contact us kab431@pitt.edu and ____@pitt.edu
+You can contact us kab431@pitt.edu and shb126@pitt.edu
 
 ### Roadmap
 Plans to be implemented:
